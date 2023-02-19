@@ -6,13 +6,32 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=RahulBhikundia&label=Profile%20views&color=0e75b6&style=flat" alt="RahulBhikundia" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Machine Learning Projects
+- 🌱 I’m currently learning AWS, Machine Learning
+- 👯 I’m looking to collaborate on Speech Recognition Projects
+- 💬 Ask me about Machine Learning, AWS
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am Creative.
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RahulBhikundia&show_icons=true&theme=vue&count_private=true&include_all_commits=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RahulBhikundia&show,_icons=true&theme=vue&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBhikundia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/rahul-bhikundia-0310211b2/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="rahul-bhikundia-0310211b2/" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/rahulkumar6222" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+            alt="rahulkumar6222" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/rahulconquerer/profile" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+            alt="user/rahulconquerer/profile" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/rahulbhikundia" target="blank"><img align="center"
+            src="https://cdn.codechef.com/images/cc-logo.svg"
+            alt="users/rahulbhikundia" height="30" width="40" /></a>
+    <a href="https://leetcode.com/rahulconquerer/" target="blank"><img align="center"
+            src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png"
+            alt="rahulconquerer/" height="30" width="40" /></a>
+</p>
