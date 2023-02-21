@@ -7,7 +7,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=RahulBhikundia&label=Profile%20views&color=0e75b6&style=flat" alt="RahulBhikundia" /> </p>
 
 - 🔭 I’m currently working on Machine Learning Projects
-- 🌱 I’m currently learning AWS, Machine Learning
+- 🌱 I’m currently learning Machine Learning, Amazon Web Services
 - 👯 I’m looking to collaborate on Speech Recognition Projects
 - 💬 Ask me about Machine Learning, AWS
 - 😄 Pronouns: He/Him
