@@ -15,7 +15,7 @@
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RahulBhikundia&show,_icons=true&theme=vue&count_private=true&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBhikunda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBhikundia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
