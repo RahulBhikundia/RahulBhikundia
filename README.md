@@ -15,7 +15,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulBhikundia)](https://github.com/RahulBhikundia/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulBhikundia&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulBhikundia&theme=default&layout=compact"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
