@@ -17,21 +17,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulBhikundia&theme=default&layout=compact"/>
 
-<h3 align="left">Connect with me:</h3>
+<hr />
+
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/rahul-bhikundia-0310211b2/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="rahul-bhikundia-0310211b2/" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/rahulkumar6222" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="rahulkumar6222" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/rahulconquerer/profile" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="user/rahulconquerer/profile" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/rahulbhikundia" target="blank"><img align="center"
-            src="https://cdn.codechef.com/images/cc-logo.svg"
-            alt="users/rahulbhikundia" height="30" width="40" /></a>
-    <a href="https://leetcode.com/rahulconquerer/" target="blank"><img align="center"
-            src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png"
-            alt="rahulconquerer/" height="30" width="40" /></a>
+<a href="https://dev.to/rahulbhikundia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/rahulbhikundia" height="30" width="40" /></a>
+<a href="https://twitter.com/RBhikundia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RBhikundia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-bhikundia-0310211b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-bhikundia-0310211b2/" height="30" width="40" /></a>
+<a href="https://kaggle.com/rahulbhikundia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rahulbhikundia" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rahulbhikundia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rahulbhikundia" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rahulkumar6222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rahulkumar6222" height="30" width="40" /></a>
+<a href="https://leetcode.com/rahulconquerer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/rahulconquerer" height="30" width="40" /></a>
 </p>
+<hr />
