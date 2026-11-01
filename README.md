@@ -13,9 +13,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Creative.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulBhikundia)](https://github.com/RahulBhikundia/github-readme-stats)
+[![Rahul's GitHub stats](https://github-stats-extended.vercel.app/api?username=RahulBhikundia)](https://github.com/stats-organization/github-stats-extended)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulBhikundia&theme=default&layout=compact"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=RahulBhikundia&theme=default&layout=compact"/>
 
 <hr />
 
